@@ -55,8 +55,7 @@ theme: minima
 
 #About Section
 about_title: About Me 
-about_content:   Peristera Karananou
-Student at the Ionion University, Department of  [informatics](https://di.ionio.gr/). 
+about_content:   Peristera Karananou | Student at the Ionion University, Department of  [informatics](https://di.ionio.gr/). 
 #about_profile_image: Directory of profile image (eg. images/profile.jpg)
 #about_content: | # this will include new lines to allow paragraphs
 
