@@ -55,7 +55,10 @@ theme: minima
 
 #About Section
 about_title: About Me 
-about_content:  <mark> Peristera Karananou</mark>. | Student at the Ionion University, Department of  [informatics](https://di.ionio.gr/). 
+- Motivated
+- Adaptable
+- Responsible
+about_content:  <mark> Peristera Karananou</mark>. | Student at the Ionion University [Department of informatics](https://di.ionio.gr/). 
 
 
 
