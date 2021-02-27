@@ -3,8 +3,7 @@ repository: perikarananou/My_CV
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 3
-
+version: 2
 # Personal info
 name: Karananou Peristera 
 title: Student
