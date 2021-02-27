@@ -65,8 +65,7 @@ title: About
 permalink: /about/
 ---
 
-**Peristera Karananou**
-Student at the Ionion University, Department of  [informatics](https://di.ionio.gr/). 
+
 
 ### Jekyll
 [Jekyll](http://jekyllrb.com/) is a simple, ruby-based, static site generator. Jekyll generates beautifully static sites from simple text documents such as markdown. Check also the [jekyll documentation](http://jekyllrb.com/docs/home/) for what you can do with it.
@@ -76,8 +75,10 @@ Student at the Ionion University, Department of  [informatics](https://di.ionio.
 See [Github](https://github.com/perikarananou).
 ---
 
+**Peristera Karananou**
+Student at the Ionion University, Department of  [informatics](https://di.ionio.gr/). 
 
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -93,12 +94,8 @@ permalink: /projects/
 ---
 
 
-Scratch_Projects: 
-* [quiz game](https://scratch.mit.edu/projects/470977854/)
-* [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
-
 content:
-  - title: Projects # Title for the section
+  - title: Scratch_Projects # Title for the section
     layout: /projects/ # Type of content section (list/text)
     content:
       - layout: left
