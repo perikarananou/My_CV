@@ -55,12 +55,16 @@ theme: minima
 #About Section
 
 about_title: About Me 
-profile:
-Qualifications:
- - Self motivated
- - Adaptable
- - Responsible
-
+- profile: |
+  Qualifications:
+   - Self motivated
+   - Adaptable
+   - Responsible
+   
+-Projects:
+  Scratch: |
+   - [quiz game](https://scratch.mit.edu/projects/470977854/)
+   - [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
 
 
 about_content:  <mark> Peristera Karananou</mark>. | Student at the Ionion University [Department of informatics](https://di.ionio.gr/). 
