@@ -53,12 +53,13 @@ theme: minima
 
 
 #About Section
-about_title: About Me 
 
-About Me :
-- Self motivated
-- Adaptable
-- Responsible
+about_title: About Me 
+profile:
+Qualifications:
+ - Self motivated
+ - Adaptable
+ - Responsible
 
 
 
