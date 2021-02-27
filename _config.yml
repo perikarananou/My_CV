@@ -58,17 +58,7 @@ about_title: About Me
 
 
 
-# Project template
-layout: top-middle
-  name:  <mark>quiz game</mark>
-  link: https://scratch.mit.edu/projects/470977854/
-    quote: >
-      Short quiz game
-   name:  <mark>flappy jellyfish</mark>
-   link: https://scratch.mit.edu/projects/440561899/
-    quote: >
-      Short game based on flappy bird
-      
+
 about_content:  <mark> Peristera Karananou</mark>. | Student at the Ionion University [Department of informatics](https://di.ionio.gr/). 
 
 
