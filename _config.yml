@@ -60,10 +60,10 @@ about_title: About Me
 
 # Project template
 layout: top-middle
-  - name: [quiz game](https://scratch.mit.edu/projects/470977854/)
+  name: [quiz game](https://scratch.mit.edu/projects/470977854/)
     quote: >
       Short quiz game
-  - name: [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
+   name: [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
     quote: >
       Short game based on flappy bird
       
