@@ -1,13 +1,14 @@
+# Site
 repository: perikarananou/My_CV
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
- version: 2
+version: 2
 # Personal info
- name: Karananou Peristera 
- title: Student
- email: p18kara4@ionio.gr
- darkmode: false
+name: Karananou Peristera 
+title: Student
+email: p18kara4@ionio.gr
+darkmode: false
 
 # Social links
  github_username:  perikarananou
