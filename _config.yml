@@ -96,7 +96,7 @@ See [Github](https://github.com/perikarananou).
 
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: /projects/ # Type of content section (list/text)
     content:
       - layout: left
         title: Project name
