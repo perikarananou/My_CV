@@ -1,12 +1,13 @@
- repository: perikarananou/My_CV
+# Site
+repository: perikarananou/My_CV
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
- version: 2
+version: 2
 # Personal info
- name: Karananou Peristera 
- title: Student
- email: p18kara4@ionio.gr
+name: Karananou Peristera 
+title: Student
+email: p18kara4@ionio.gr
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -14,15 +15,15 @@
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
- darkmode: false
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
- github_username:  perikarananou
- language: Native Greek
+github_username:  perikarananou
+language: Native Greek
 # Build settings
- markdown: kramdown
- theme: minima
+markdown: kramdown
+theme: minima
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -54,16 +55,14 @@
 #About Section
 
 about_title: About Me 
-- profile: |
-  Qualifications:
-   - Self motivated
-   - Adaptable
-   - Responsible
-   
--Projects:
-  Scratch: |
-   - [quiz game](https://scratch.mit.edu/projects/470977854/)
-   - [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
+profile:
+Qualifications:
+ - Self motivated
+ - Adaptable
+ - Responsible
+
+
+
 about_content:  <mark> Peristera Karananou</mark>. | Student at the Ionion University [Department of informatics](https://di.ionio.gr/). 
 
 
@@ -181,3 +180,4 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
