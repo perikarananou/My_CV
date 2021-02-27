@@ -21,6 +21,10 @@ darkmode: false
 # Social links
 #twitter_username: jekyllrb
 github_username:  perikarananou
+language: Native Greek
+# Build settings
+markdown: kramdown
+theme: minima
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
