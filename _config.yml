@@ -51,16 +51,7 @@ theme: minima
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
----
-layout: default
-title: Projects
-permalink: /projects/
----
 
-
-Scratch_Projects: 
-* [quiz game](https://scratch.mit.edu/projects/470977854/)
-* [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
 
 #About Section
 about_title: About Me 
@@ -93,15 +84,31 @@ See [Github](https://github.com/perikarananou).
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    
+    
+    ---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+
+Scratch_Projects: 
+* [quiz game](https://scratch.mit.edu/projects/470977854/)
+* [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
 
 content:
   - title: Projects # Title for the section
     layout: /projects/ # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: quiz game
+        link: https://scratch.mit.edu/projects/470977854/
+        link_text: quiz game
+        - layout: left
+        title: flappy jellyfish
+        link: https://scratch.mit.edu/projects/440561899/
+        link_text: flappy jellyfish
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
