@@ -96,13 +96,13 @@ permalink: /projects/
 
 content:
   - title: Scratch_Projects # Title for the section
-    layout: /projects/ # Type of content section (list/text)
+    layout: Projects # Type of content section (list/text)
     content:
       - layout: left
         title: quiz game
         link: https://scratch.mit.edu/projects/470977854/
         link_text: quiz game
-        - layout: left
+      - layout: left
         title: flappy jellyfish
         link: https://scratch.mit.edu/projects/440561899/
         link_text: flappy jellyfish
@@ -112,7 +112,7 @@ content:
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: Link to project (https://scratch.mit.edu/projects/440561899/)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
