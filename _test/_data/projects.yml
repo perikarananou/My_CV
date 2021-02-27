@@ -1,13 +1,13 @@
 # Project template
 - layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
+  name: quiz game
+  link: https://scratch.mit.edu/projects/470977854/
   github: sproogen/modern-resume-theme
   quote: >
     Short overview of the project
   description: >
     Description about the work on/with the project
 
-- name: Project 2
+- name: [flappy jellyfish](https://scratch.mit.edu/projects/440561899/)
   description: >
     Description about the work on/with the project
